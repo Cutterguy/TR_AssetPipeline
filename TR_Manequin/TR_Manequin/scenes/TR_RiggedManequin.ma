@@ -1,6 +1,6 @@
 //Maya ASCII 2018 scene
-//Name: TR_Manequin4ForZBrush.ma
-//Last modified: Tue, Apr 30, 2019 06:49:42 PM
+//Name: TR_RiggedManequin.ma
+//Last modified: Tue, Apr 30, 2019 06:51:09 PM
 //Codeset: 1252
 requires maya "2018";
 requires "stereoCamera" "10.0";
@@ -20461,4 +20461,4 @@ connectAttr "|Manequin|Head.msg" ":hyperGraphLayout.hyp[71].dn";
 connectAttr "LeftLowerArm.msg" ":hyperGraphLayout.hyp[72].dn";
 connectAttr "LeftHand.msg" ":hyperGraphLayout.hyp[73].dn";
 connectAttr "MainShield1.msg" ":hyperGraphLayout.hyp[74].dn";
-// End of TR_Manequin4ForZBrush.ma
+// End of TR_RiggedManequin.ma
